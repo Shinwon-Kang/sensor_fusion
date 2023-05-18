@@ -1,2 +1,2 @@
 # sensor_fusion
-This project is studying sensor fusion in LIDAR and cameras.
+This project studies sensor fusion using lidar and cameras.
